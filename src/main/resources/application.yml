@@ -1,0 +1,9 @@
+
+
+missyou:
+  api-package: com.dream.controller
+  year-codes: 123
+
+spring:
+  profiles:
+    active: dev
